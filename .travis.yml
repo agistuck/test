@@ -3,9 +3,9 @@ sudo: false
 install: true
 addons:
   sonarcloud:
-    organization: "ecoeppasa-github"
+    organization: "agistuck-github"
     token:
-      secure: "3734d03c8cb268e751779cea36dded423e6758b2"
+      secure: "bd0c64afc0342b09b764eb20a5367a5e50ca038c"
 jdk:
   - oraclejdk8
 script:
